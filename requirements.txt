@@ -1,0 +1,2 @@
+# Solo para publicar con servidor WSGI; local/Spyder no necesita instalar paquetes.
+waitress>=3.0,<4
